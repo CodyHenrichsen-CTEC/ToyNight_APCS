@@ -1,11 +1,14 @@
 # APCS Toy Night
 Repository for the AP Computer Science A Pedagogical Practices Event AKA Toy Night
 
-Zoom Link: https://canyonsdistrict-org.zoom.us/j/85058411381
 
 The tinyurl for this repo is: https://tinyurl.com/ToyNightAPCS
 
 The archive is organized by year with video hosted on my youtube channel
+## 2024
+### Slides
+#### [PDF](https://github.com/CodyHenrichsen-CTEC/ToyNight_APCS/blob/main/files/AP%20CS%20A%20Toy%20Night%202024.pdf)
+
 ## 2023:
 ### Slides
 #### [PDF](https://github.com/CodyHenrichsen-CTEC/ToyNight_APCS/blob/main/files/AP%20CS%20A%20Toy%20Night%202023.pdf)
